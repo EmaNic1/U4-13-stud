@@ -1,0 +1,8 @@
+﻿1000 8,50
+Pavardė1; Vardas1; G1; 3; 9 9 8;
+Pavardė2; Vardas2; G2; 2; 6 7;
+Pavardė3; Vardas3; G2; 4; 5 4 7 7;
+Pavardė4; Vardas4; G3; 5; 8 9 9 9 9;
+Pavardė5; Vardas5; G1; 2; 10 10;
+Pavardė6; Vardas6; G1; 3; 9 9 9;
+Pavardė7; Vardas7; G3; 4; 6 4 7 8;

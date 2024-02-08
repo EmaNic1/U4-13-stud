@@ -1,0 +1,55 @@
+Turimas fondas stipendijai: 1000 euru
+Stipendijai gauti butinas pazymiu vidurkis: 8,50
+
+Studentu duomenys:
+|----------------------------------------------------------------------------
+|  Pavarde  |  Vardas  |  Grupe  |  Pazymiu kiekis  |        Pazymiai        
+|----------------------------------------------------------------------------
+|Pavardė1   | Vardas1  | G1      |                 3|   9   9   8
+|Pavardė2   | Vardas2  | G2      |                 2|   6   7
+|Pavardė3   | Vardas3  | G2      |                 4|   5   4   7   7
+|Pavardė4   | Vardas4  | G3      |                 5|   8   9   9   9   9
+|Pavardė5   | Vardas5  | G1      |                 2|  10  10
+|Pavardė6   | Vardas6  | G1      |                 3|   9   9   9
+|Pavardė7   | Vardas7  | G3      |                 4|   6   4   7   8
+|----------------------------------------------------------------------------
+
+Studentai paskirstyti pagal reikalavimus:
+|----------------------------------------------------------------------------------------------------------------|
+|  Pavarde  |  Vardas  |  Grupe  |  Vidurkis  |  Ar gauna stipendija  |  Ar pirmunas  |  Kiek gauna stipendijos  |
+|----------------------------------------------------------------------------------------------------------------|
+|Pavardė1   | Vardas1  | G1      |        8,67|Taip                   |Ne             |                   225,00e|
+|Pavardė2   | Vardas2  | G2      |        6,50|Ne                     |Ne             |                     0,00e|
+|Pavardė3   | Vardas3  | G2      |        5,75|Ne                     |Ne             |                     0,00e|
+|Pavardė4   | Vardas4  | G3      |        8,80|Taip                   |Ne             |                   225,00e|
+|Pavardė5   | Vardas5  | G1      |       10,00|Taip                   |Taip           |                   275,00e|
+|Pavardė6   | Vardas6  | G1      |        9,00|Taip                   |Taip           |                   275,00e|
+|Pavardė7   | Vardas7  | G3      |        6,25|Ne                     |Ne             |                     0,00e|
+|----------------------------------------------------------------------------------------------------------------|
+
+Surikiuotas naujas sarasas:
+|----------------------------------------------------------------------------------------------------------------|
+|  Pavarde  |  Vardas  |  Grupe  |  Vidurkis  |  Ar gauna stipendija  |  Ar pirmunas  |  Kiek gauna stipendijos  |
+|----------------------------------------------------------------------------------------------------------------|
+|Pavardė5   | Vardas5  | G1      |       10,00|Taip                   |Taip           |                   275,00e|
+|Pavardė6   | Vardas6  | G1      |        9,00|Taip                   |Taip           |                   275,00e|
+|Pavardė4   | Vardas4  | G3      |        8,80|Taip                   |Ne             |                   225,00e|
+|Pavardė1   | Vardas1  | G1      |        8,67|Taip                   |Ne             |                   225,00e|
+|Pavardė3   | Vardas3  | G2      |        5,75|Ne                     |Ne             |                     0,00e|
+|Pavardė2   | Vardas2  | G2      |        6,50|Ne                     |Ne             |                     0,00e|
+|Pavardė7   | Vardas7  | G3      |        6,25|Ne                     |Ne             |                     0,00e|
+|----------------------------------------------------------------------------------------------------------------|
+
+Pasalinti visi studentai, kurie negauna stipendijos:
+|----------------------------------------------------------------------------------------------------------------|
+|  Pavarde  |  Vardas  |  Grupe  |  Vidurkis  |  Ar gauna stipendija  |  Ar pirmunas  |  Kiek gauna stipendijos  |
+|----------------------------------------------------------------------------------------------------------------|
+|Pavardė5   | Vardas5  | G1      |       10,00|Taip                   |Taip           |                   275,00e|
+|Pavardė6   | Vardas6  | G1      |        9,00|Taip                   |Taip           |                   275,00e|
+|Pavardė4   | Vardas4  | G3      |        8,80|Taip                   |Ne             |                   225,00e|
+|Pavardė1   | Vardas1  | G1      |        8,67|Taip                   |Ne             |                   225,00e|
+|----------------------------------------------------------------------------------------------------------------|
+
+Jusu pasirinkta grupe: 3
+
+Pirmunu, su nurodyta grupe, nera.
